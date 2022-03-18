@@ -1,17 +1,22 @@
 {
     "basic_info": {
       "name": "Michael Maker",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer: Python, JavaScript, HTML, and CSS" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/guerillaxgardener",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/guerrillaxgardener/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/michaelmak3r/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

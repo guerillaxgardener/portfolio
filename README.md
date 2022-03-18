@@ -3,3 +3,25 @@
 ## Deployed portfolio
 
 <https://michaelmaker.netlify.app/>
+
+---
+
+Number and name of feature: Clone template and deploy
+Estimate of time needed to complete: :10
+
+Start time: 17:10
+
+Finish time: 17:27
+
+Actual time needed to complete: :17
+
+---
+
+Number and name of feature: About Me Page
+Estimate of time needed to complete: :30
+
+Start time: 17:28
+
+Finish time: 17:48
+
+Actual time needed to complete: :20
