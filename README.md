@@ -36,3 +36,14 @@ Start time: 12:06
 Finish time: : 12:33
 
 Actual time needed to complete: :37
+
+---
+
+Number and name of feature: Personalization
+Estimate of time needed to complete: 1:00
+
+Start time: 13:10
+
+Finish time: : 14:30
+
+Actual time needed to complete: 1:20
