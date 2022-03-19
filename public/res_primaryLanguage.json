@@ -11,72 +11,64 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Dirt.Farm",
+        "startDate": "2022",
+        "description": "First full web application I was able to collaborate with a team of four on. We were able to produce a simple farming game with simulated farming and real time clock implementation in game play.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dirt-farm/dirtfarm1.png",
+          "images/portfolio/dirt-farm/dirtfarm2.png"
         ],
-        "url": "",
+        "url": "https://lausl-makins.github.io/farming-game/index.html",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Pats Cookie Stand",
+        "startDate": "2022",
+        "description": "Responsible for building a site that could serve as a landing page for customers that also had constructors used to add in future stores and feed their data in to pull out sales estimates.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pats-cookies/patscookies1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://guerillaxgardener.github.io/cookie-stand-2/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
+      },
+      {
+        "title": "Auto-Watering Garden Project",
+        "startDate": "2021",
+        "description": "Small auto-watering system I'd like to put together soon... 🤔 ",
+        "images": [
+          "images/portfolio/auto-garden/gardendrawing.jpeg",
+          "images/portfolio/auto-garden/arduino.jpeg",
+          "images/portfolio/auto-garden/cad1.png",
+          "images/portfolio/auto-garden/cad2.png"
+        ],
+        "url": "",
+        "technologies": []
       }
     ],
     "experience": [
