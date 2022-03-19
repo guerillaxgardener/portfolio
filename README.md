@@ -25,3 +25,14 @@ Start time: 17:28
 Finish time: 17:48
 
 Actual time needed to complete: :20
+
+---
+
+Number and name of feature: Projects Section
+Estimate of time needed to complete: :45
+
+Start time: 12:06
+
+Finish time: : 12:33
+
+Actual time needed to complete: :37
